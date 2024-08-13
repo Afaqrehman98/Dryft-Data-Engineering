@@ -1,0 +1,12 @@
+# Python specific
+venv/
+__pycache__/
+*.pyc
+
+# Test and coverage reports
+*.log
+*.coverage
+htmlcov/
+*.xml
+
+.idea/
